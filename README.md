@@ -1,2 +1,2 @@
 # goondiscordbot
-Bot to use for any need my group of friends wants
+Bot to use for anything my group of friends want

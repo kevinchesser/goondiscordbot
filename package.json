@@ -1,0 +1,22 @@
+{
+  "name": "goondiscordbot",
+  "version": "1.0.0",
+  "description": "Discord bot for my friends",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinchesser/goondiscordbot.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Kevin Chesser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinchesser/goondiscordbot/issues"
+  },
+  "homepage": "https://github.com/kevinchesser/goondiscordbot#readme"
+}
