@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/kevinchesser/goondiscordbot/issues"
   },
-  "homepage": "https://github.com/kevinchesser/goondiscordbot#readme"
+  "homepage": "https://github.com/kevinchesser/goondiscordbot#readme",
+  "dependencies": {
+    "discordie": "^0.11.0"
+  }
 }
