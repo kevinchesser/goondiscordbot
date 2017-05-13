@@ -72,7 +72,7 @@ client.Dispatcher.on("MESSAGE_CREATE", e => {
 		if(playerName != null){
 			var url = "http://api.steampowered.com/ISteamUserStats/" +
 				"GetUserStatsForGame/v0002/?appid=730&key=" +
-				"E42C01AD604EFA3F7E376FCE6944431B&steamid=" + steamId;
+				"&steamid=" + steamId;
 			request(url, function(error, response, body) {
 				if(error){
 					csgoChannel.sendMessage(error);
